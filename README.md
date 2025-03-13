@@ -1,5 +1,7 @@
 # Investment Calculator
 
+![Application Overview](./src/assets/overview.png)
+
 A simple React application for calculating investment returns based on the following parameters:
 
 - **Initial Investment**
@@ -49,8 +51,6 @@ The application visualizes the annual growth of capital and interest and display
 - **index.css**  
   Contains global styles for the entire application.
 
----
-
 ## Installation and Usage
 
 1. **Clone the repository** or download the project archive.
@@ -84,3 +84,5 @@ The application visualizes the annual growth of capital and interest and display
    - **Interest (Year)** – The amount of interest earned during that year
    - **Total Interest** – The total interest earned since the start of the investment
    - **Invested Capital** – The total amount contributed (initial + annual contributions)
+
+[def]: ./public/screenshots/overview.png
